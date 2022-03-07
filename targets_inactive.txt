@@ -51,3 +51,5 @@ https://mav.aero/passengers/information/timetable/
 http://vaynahavia.com/page.php?page_id=5
 http://gbu-bolnica6.ru/component/search/?searchword=%D0%BF%D0%B5%D1%80&ordering=newest&searchphrase=all
 https://grozcrb.ru/
+https://groznyj.apteki.me/search?q=%D0%9F%D0%B5&page=3 + Cookie: apteki-frontend=0pp4oi7seipdtqo314floi4oa3
+https://194.87.217.26/raspisanie/sevastopol + Host: avtovokzaly.ru
