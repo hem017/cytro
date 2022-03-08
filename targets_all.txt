@@ -7,6 +7,7 @@ https://api.apteka.ru/City/Cities?searchQuery=%D0%BF
 https://apteka.ru/category/first_aid/medicine_chest/?filter=naz%3Ador%2Bavt%2Bper%2Buni%2Btra%3B&noindex=1&withprice=1&withprofit=1
 https://apteka.ru/search/?q=%D0%B8%D1%82%D0%B0&sort=byprice&page=37
 https://api.apteka.ru/Search/GoodGroupUrl?pageSize=1000&page=3&withprice=true&withprofit=false&withpromovits=false&goodGroupUrl=leka%2Fnerv&cityId=5e57c169ddfd26000181963a
+https://apteka.ru/blog/articles/zdorovoe-pitanie/?sort=bydate
 https://avtovokzal31.ru/
 https://dkbvrn.ru/
 https://krasnodar1.ru/txt.php?nc=one&id=216
