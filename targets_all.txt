@@ -17,7 +17,8 @@ https://russia.poezda.net/
 https://tagancity.ru/
 https://rzd.ru
 https://travel.rzd.ru/api/v1/suggestions/hotelcity?name=%D0%A1%D0%BE&limitCity=200&limitHotel=20
-https://travel.rzd.ru/hotels/search?adult=2&child=0&infant=0&checkInDate=2022-03-07&checkOutDate=2022-03-12&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5e1c9e185de140eada26b02f
+https://travel.rzd.ru/hotels/search?adult=2&child=0&infant=0&checkInDate=2022-03-17&checkOutDate=2022-03-19&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5e1c9e185de140eada26b02f
+https://travel.rzd.ru/hotels/search?adult=1&child=0&infant=0&checkInDate=2022-03-17&checkOutDate=2022-03-19&stars=%5B3%2C2%2C1%2C0%5D&rating=5&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5dfe0f64111dfe5224a9be5e
 https://vokzalbelgorod.ru/
 https://vokzalkursk.ru/
 https://vokzalrostov.ru/
