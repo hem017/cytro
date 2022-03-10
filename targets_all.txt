@@ -3,6 +3,7 @@ http://bsmp-1.ru/taxonomy/term/8?page=25
 http://rostov.dzvr.ru/
 http://taganrog-gbsmp.ru/
 http://www.uztag.ru/priem-obrashhenij-success.html?Cookie= PHPSESSID=6are5lptoepbmmh4mail96jdj0; fontSize=62.5
+http://www.uztag.ru/priem-obrashhenij.html
 https://api.apteka.ru/City/Cities?searchQuery=%D0%BF
 https://apteka.ru/category/first_aid/medicine_chest/?filter=naz%3Ador%2Bavt%2Bper%2Buni%2Btra%3B&noindex=1&withprice=1&withprofit=1
 https://apteka.ru/search/?q=%D0%B8%D1%82%D0%B0&sort=byprice&page=37
@@ -45,3 +46,5 @@ https://www.mos-gorsud.ru/search?formType=shortForm&courtAlias=mgs&uid=&instance
 https://moscow.fas.gov.ru/search/%D0%BF%D0%B5%D1%80%7Csort%3D0
 https://77.rospotrebnadzor.ru/index.php/component/search/?searchword=%D0%BF%D0%B5%D1%80&searchphrase=all&Itemid=136
 https://r77.fssp.gov.ru/search/?string=%EF%E5%F0&date_from=01.03.1960&date_to=&where=1
+https://mtuf.ru/ajax/feedback/
+https://mtuf.ru/search/index.php?q=%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%22%3B+SELECT+*+FROM+information_schema.tables%3B+&s=
