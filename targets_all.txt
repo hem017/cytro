@@ -40,7 +40,7 @@ https://epp.genproc.gov.ru/web/proc_77/
 https://duma.mos.ru/en/
 http://www.mgnp.info/rozysk-kreditorov/
 https://mostpp.ru/news/deyatelnost-mtpp/
-https://mtuf.ru/decree/
+https://mtuf.ru/search/?q=%D0%BB%D0%B5%D1%82&where=&how=d&PAGEN_1=20
 http://www.mosmakk.ru/structure.html
 https://www.mos-gorsud.ru/search?formType=shortForm&courtAlias=mgs&uid=&instance=&processType=&letterNumber=&caseNumber=&participant=
 https://moscow.fas.gov.ru/search/%D0%BF%D0%B5%D1%80%7Csort%3D0
