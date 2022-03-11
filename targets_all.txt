@@ -19,14 +19,10 @@ https://rzd.ru
 https://travel.rzd.ru/api/v1/suggestions/hotelcity?name=%D0%A1%D0%BE&limitCity=200&limitHotel=20
 https://travel.rzd.ru/hotels/search?adult=2&child=0&infant=0&checkInDate=2022-03-17&checkOutDate=2022-03-19&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5e1c9e185de140eada26b02f
 https://travel.rzd.ru/hotels/search?adult=1&child=0&infant=0&checkInDate=2022-03-17&checkOutDate=2022-03-19&stars=%5B3%2C2%2C1%2C0%5D&rating=5&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5dfe0f64111dfe5224a9be5e
-https://vokzalbelgorod.ru/
-https://vokzalkursk.ru/
-https://vokzalrostov.ru/
 https://vrn.mydocuments36.ru/user/logout
 https://www.ffoms.gov.ru/
 https://www.tutu.ru/poezda/vkz/%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%D1%8B_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B/
 https://mtischr.ru/
-https://tagmed1.ru/staff
 https://vokzal.ru/raspisanie/Moskva/Kozhva/2000000/2010079
 https://vokzal.ru/step2/index?adultsCount=1&childsCount=0&departureDate=21.04.2022&from=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&fromCode=2000000&fromCodeFor=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&infantsCount=0&to=%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%20%28%D0%9A%D1%80%D1%8E%D0%BA%D0%BE%D0%B2%D0%BE%29&toCode=2006200&toCodeFor=%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%20%28%D0%9A%D1%80%D1%8E%D0%BA%D0%BE%D0%B2%D0%BE%29
 https://www.tutu.ru/poezda/vkz/%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%D1%8B_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B/
