@@ -66,3 +66,16 @@ https://185.234.247.237/forum/viewforum.php?f=1958 + Host: rutracker.org
 https://185.234.247.237/forum/viewforum.php?f=930&start=1450 + Host: rutracker.org
 https://185.234.247.237/forum/viewforum.php?f=1608&start=950 + Host: rutracker.org
 http://aids-orel.ru
+https://api.apteka.ru/City/Cities?searchQuery=%D0%BF
+https://apteka.ru/category/first_aid/medicine_chest/?filter=naz%3Ador%2Bavt%2Bper%2Buni%2Btra%3B&noindex=1&withprice=1&withprofit=1
+https://apteka.ru/search/?q=%D0%B8%D1%82%D0%B0&sort=byprice&page=37
+https://api.apteka.ru/Search/GoodGroupUrl?pageSize=1000&page=3&withprice=true&withprofit=false&withpromovits=false&goodGroupUrl=leka%2Fnerv&cityId=5e57c169ddfd26000181963a
+https://apteka.ru/blog/articles/zdorovoe-pitanie/?sort=bydate
+https://apteka.ru/moskva/regions/preparation/
+https://apteka.ru/regions/medicines-list/?char=%D0%BC
+https://avtovokzal31.ru/
+https://www.advokatymoscow.ru/press/events/
+https://travel.rzd.ru/api/v1/suggestions/hotelcity?name=%D0%A1%D0%BE&limitCity=200&limitHotel=20
+https://travel.rzd.ru/hotels/search?adult=2&child=0&infant=0&checkInDate=2022-03-17&checkOutDate=2022-03-19&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5e1c9e185de140eada26b02f
+https://travel.rzd.ru/hotels/search?adult=1&child=0&infant=0&checkInDate=2022-03-17&checkOutDate=2022-03-19&stars=%5B3%2C2%2C1%2C0%5D&rating=5&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5dfe0f64111dfe5224a9be5e
+https://duma.mos.ru/ru/0/press-center-archive?archive_filters%5Btype%5D=0&page=600
