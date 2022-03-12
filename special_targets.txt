@@ -1,6 +1,3 @@
-https://185.234.247.237/forum/viewforum.php?f=1958 + Host: rutracker.org
-https://185.234.247.237/forum/viewforum.php?f=930&start=1450 + Host: rutracker.org
-https://185.234.247.237/forum/viewforum.php?f=1608&start=950 + Host: rutracker.org
 https://212.164.138.121/ + Host: rzd.ru
 https://212.164.138.124/ + Host: rzd.ru
 https://212.164.138.127/ + Host: rzd.ru
