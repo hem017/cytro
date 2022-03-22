@@ -87,3 +87,6 @@ https://travel.rzd.ru/hotels/search?adult=2&child=0&infant=0&checkInDate=2022-03
 https://travel.rzd.ru/hotels/search?adult=1&child=0&infant=0&checkInDate=2022-03-17&checkOutDate=2022-03-19&stars=%5B3%2C2%2C1%2C0%5D&rating=5&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5dfe0f64111dfe5224a9be5e
 https://www.mos-gorsud.ru/search?formType=shortForm&courtAlias=mgs&uid=&instance=&processType=&letterNumber=&caseNumber=&participant=
 http://aids-orel.ru/
+https://donate.thedigital.org.ua/
+https://donate.thedigital.net.ua/
+https://donate.thedigitalgov.com/usdtt.html
