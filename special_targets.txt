@@ -10,6 +10,3 @@ https://212.164.138.131/ + Host: rzd.ru
 https://212.164.138.130/ + Host: rzd.ru
 https://212.164.138.125/ + Host: rzd.ru
 https://212.164.138.129/ + Host: rzd.ru
-https://146.158.52.21/ + Host: avito.ru
-https://146.158.54.21/ + Host: avito.ru
-https://146.158.48.21/ + Host: avito.ru
