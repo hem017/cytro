@@ -1,12 +1,3 @@
-https://212.164.138.121/ + Host: rzd.ru
-https://212.164.138.124/ + Host: rzd.ru
-https://212.164.138.127/ + Host: rzd.ru
-https://212.164.138.123/ + Host: rzd.ru
-https://212.164.138.128/ + Host: rzd.ru
-https://212.164.138.126/ + Host: rzd.ru
-https://212.164.138.120/ + Host: rzd.ru
-https://212.164.138.122/ + Host: rzd.ru
-https://212.164.138.131/ + Host: rzd.ru
-https://212.164.138.130/ + Host: rzd.ru
-https://212.164.138.125/ + Host: rzd.ru
-https://212.164.138.129/ + Host: rzd.ru
+https://aptekamos.ru/tovary/poisk?q=%D0%B0%D0%BC%D0%B8&&inr=0
+https://aptekamos.ru/tovary/poisk?q=%D0%BC%D0%B8%D0%BD&&inr=0
+https://aptekamos.ru/tovary/lekarstva/folievaya-kislota-1009/9-mesyacev-folievaya-kislota-tabletki-400mkg-51580/ceni
