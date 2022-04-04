@@ -135,3 +135,6 @@ https://212.164.138.129/ + Host: rzd.ru
 https://uteka.ru/
 https://wer.ru/
 https://lekmos.ru
+https://www.eapteka.ru
+https://doctorpiter.ru
+https://zdesapteka.ru
