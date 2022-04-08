@@ -1,4 +1,3 @@
-https://alfazdrav.ru
 https://ambulance.spb.ru
 https://emcmos.ru
 https://euromed.ru
@@ -10,10 +9,13 @@ https://lcenter.ru
 https://mamadeti.ru
 https://mc21.ru
 https://medi.spb.ru
-https://medicina.ru
 https://msk.mrtexpert.ru
-https://napopravku.ru/
 https://newhospital.ru
 https://prioritet03.ru
 https://скорая-помощь03.рф/
 http://xn---03-5cd3colcbhij7iubzb.xn--p1ai/
+https://lk.k31.ru/login
+https://lk.mamadeti.ru/index
+https://lk.emcmos.ru
+https://newhospital.ru/cabinet/
+https://kabinet.medi.spb.ru/login
