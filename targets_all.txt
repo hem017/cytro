@@ -1,8 +1,6 @@
 https://evromed42.ru
 https://lcenter.ru
 https://mc21.ru
-https://newhospital.ru
-https://newhospital.ru/cabinet/
 https://mc21.ru/?query=%D1%82%D0%B5%D1%81
 https://evromed42.ru/mysql/pMA/
 https://evromed42.ru//modules/mod_articles_popular/mod_articles_popular.php
@@ -36,15 +34,3 @@ https://mc21.ru/vbforum
 https://mc21.ru/vbmembermap
 https://mc21.ru/validation
 https://mc21.ru/vbmodcp
-https://newhospital.ru/eager
-https://newhospital.ru/HelloPervasive
-https://newhospital.ru/~guest
-https://newhospital.ru/epaper
-https://newhospital.ru/cube
-https://newhospital.ru/fax
-https://newhospital.ru/eb
-https://newhospital.ru/formmailer
-https://newhospital.ru/psalms
-https://newhospital.ru/cerca
-https://newhospital.ru/category-s
-https://newhospital.ru/ingresa
