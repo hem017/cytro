@@ -1,17 +1,5 @@
 http://24supermarket.ru/
-https://bringston.ru/
-https://www.delikateska.ru/
 https://dostavka-produktov.ru/
-https://goldniva.ru/
-https://goldniva.ru/#CacheServer
-https://goldniva.ru/#
-https://goldniva.ru/./
-https://goldniva.ru/auth
-https://goldniva.ru/333
-https://goldniva.ru/.
-https://goldniva.ru/#bea_wls_internal/iiop/ClientRecv
-https://goldniva.ru/bx
-https://goldniva.ru/action
 https://gs.market/
 https://gs.market/?
 https://gs.market/.
