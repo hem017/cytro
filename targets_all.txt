@@ -18,6 +18,16 @@ https://gs.market/.
 https://gs.market/./
 https://gs.market/#
 https://igooods.ru/
+https://igooods.ru//components/com_users/views/login/tmpl/default.xml
+https://igooods.ru/ad_js
+https://igooods.ru/.
+https://igooods.ru//components/com_contact/views/featured/tmpl/default.xml
+https://igooods.ru/404notfound
+https://igooods.ru//components/com_users/metadata.xml
+https://igooods.ru/cartoon
+https://igooods.ru/cartes
+https://igooods.ru/agreement
+https://igooods.ru/./
 https://im-lavka.ru/
 https://itsfresh.ru/
 https://keesla.ru/
