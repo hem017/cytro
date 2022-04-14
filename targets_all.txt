@@ -61,3 +61,4 @@ https://expostroi-vl.ru/?mod=node&nid=some_thing&op=view
 https://expostroi-vl.ru/?D=A
 https://expostroi-vl.ru/#bea_wls_internal/HTTPClntRecv/*
 https://expostroi-vl.ru/./
+https://reg.cipr.ru/composer.phar
