@@ -1,9 +1,4 @@
 http://24supermarket.ru/
-https://gs.market/
-https://gs.market/?
-https://gs.market/.
-https://gs.market/./
-https://gs.market/#
 https://itsfresh.ru/
 https://itsfresh.ru/sistemes
 https://itsfresh.ru/time
@@ -60,3 +55,15 @@ https://expo.oborot.ru/.
 https://expo.oborot.ru/#bea_wls_internal/iiop/ClientRecv
 https://expo.oborot.ru/#cs/CacheServer
 https://expo.oborot.ru/?D=A
+https://sviaz-expo.ru/webapp/examples/login.html
+https://sviaz-expo.ru/webapp/examples/ping
+https://sviaz-expo.ru/webapp/jsp/container_tabs.jsp
+https://sviaz-expo.ru/web/apple-touch-icon.png
+https://sviaz-expo.ru/webapp/examples/showcfg
+https://sviaz-expo.ru/webapp/examples/SourceCodeViewer
+https://sviaz-expo.ru/webapp/images/
+https://sviaz-expo.ru/webapp/examples/showCfg
+https://sviaz-expo.ru/\
+https://sviaz-expo.ru/-
+https://sviaz-expo.ru/*
+https://sviaz-expo.ru/<
