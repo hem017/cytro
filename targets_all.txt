@@ -18,24 +18,3 @@ https://www.maxconf.ru/event/108/
 https://reg.cipr.ru
 https://reg.cipr.ru/composer.phar
 http://www.rpi-conferences.com/upstream-development
-https://www.neftegaz-expo.ru
-https://neftegaz-expo.ru/my-sql
-https://neftegaz-expo.ru//mysql-admin
-https://neftegaz-expo.ru/mysite.aspx
-https://neftegaz-expo.ru/myspace
-https://neftegaz-expo.ru/mysql-admin/
-https://www.renwex.ru
-https://renwex.ru//lcds/messagebroker/http
-https://renwex.ru//lcds-samples/messagebroker/http
-https://renwex.ru/lcgi/lcgitest.nlm
-https://renwex.ru//lcds-samples/messagebroker/httpsecure
-https://renwex.ru/lccon.nsf
-https://www.sviaz-expo.ru
-https://sviaz-expo.ru/webapp/examples/verify
-https://sviaz-expo.ru/webapp/jsimages/
-https://sviaz-expo.ru/webapp/examples/simple.jsp
-https://sviaz-expo.ru/webapp/wm/javart.jsp
-https://sviaz-expo.ru/webapp/examples/HelloPervasive
-https://sviaz-expo.ru/webapp/jsp/
-https://sviaz-expo.ru/webapp/examples/login.html
- https://sviaz-expo.ru/0-newstore
