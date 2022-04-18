@@ -1,16 +1,1 @@
-http://24supermarket.ru/
-https://keesla.ru/
 https://expo.oborot.ru
-https://expo.oborot.ru/?
-https://expo.oborot.ru/.
-https://expo.oborot.ru/./
-https://expo.oborot.ru/#
-https://expo.oborot.ru//
-https://expo.oborot.ru/?D=A
-https://expo.oborot.ru/%2e/
-https://expo.oborot.ru/%2f/
-https://expo.oborot.ru/index.htm
-https://www.maxconf.ru/event/108/
-https://reg.cipr.ru
-https://reg.cipr.ru/composer.phar
-http://www.rpi-conferences.com/upstream-development
