@@ -1,17 +1,10 @@
 https://www.b2b-center.ru/market/
-https://astgoz.ru/page/index
 https://otc.ru/tenders/companies/search
 https://tender.otc.ru/main/sso/Login.aspx?ReturnUrl=%2fmain%2fsso
-https://api.new-market.otc.ru/
 https://market.otc.ru/
 https://api.market.otc.ru/
-https://stable-dnn.otc.ru/
-https://api.market-stable.otc.ru/
-https://crm.otc.ru/
-https://ca.otc.ru/
 https://www.rts-tender.ru/poisk
 https://www.rosatom.rts-tender.ru
-https://api.rts-tender.ru/
 https://app.rts-tender.ru/auth/sso/login/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f&sso=1&code=-5
 https://223.rts-tender.ru/supplier/sso/Login.aspx?ReturnUrl=%2fsupplier%2fsso%2f&sso=1&code=-5
 https://it2-auth.rts-tender.ru/
@@ -19,6 +12,5 @@ https://market-lk.rts-tender.ru/api/common/v1/sso/login/participantCustomer?sso=
 https://lot-online.ru/
 https://privatization.lot-online.ru/
 https://rad.lot-online.ru/
-https://agents.lot-online.ru/
 https://gz.lot-online.ru/etp_front/
 https://catalog.lot-online.ru/index.php?dispatch=rad_auth.login_form
