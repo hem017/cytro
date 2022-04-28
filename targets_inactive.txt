@@ -362,3 +362,8 @@ https://stable-dnn.otc.ru/
 https://crm.otc.ru/
 https://api.new-market.otc.ru/
 https://api.rts-tender.ru/
+https://lot-online.ru/
+https://privatization.lot-online.ru/
+https://rad.lot-online.ru/
+https://gz.lot-online.ru/etp_front/
+https://catalog.lot-online.ru/index.php?dispatch=rad_auth.login_form

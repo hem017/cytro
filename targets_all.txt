@@ -9,8 +9,3 @@ https://app.rts-tender.ru/auth/sso/login/participant?ReturnUrl=https%3a%2f%2fapp
 https://223.rts-tender.ru/supplier/sso/Login.aspx?ReturnUrl=%2fsupplier%2fsso%2f&sso=1&code=-5
 https://it2-auth.rts-tender.ru/
 https://market-lk.rts-tender.ru/api/common/v1/sso/login/participantCustomer?sso=1&code=-5
-https://lot-online.ru/
-https://privatization.lot-online.ru/
-https://rad.lot-online.ru/
-https://gz.lot-online.ru/etp_front/
-https://catalog.lot-online.ru/index.php?dispatch=rad_auth.login_form
