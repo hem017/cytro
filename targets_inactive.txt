@@ -367,3 +367,13 @@ https://privatization.lot-online.ru/
 https://rad.lot-online.ru/
 https://gz.lot-online.ru/etp_front/
 https://catalog.lot-online.ru/index.php?dispatch=rad_auth.login_form
+https://otc.ru/tenders/companies/search
+https://tender.otc.ru/main/sso/Login.aspx?ReturnUrl=%2fmain%2fsso
+https://market.otc.ru/
+https://api.market.otc.ru/
+https://etpu.ru/
+https://bankrupt.etpu.ru/public/purchases-all/
+https://torgi.etpu.ru/app/ParticipantAccreditation/page?ParticipantAccreditation.editingMode=F
+https://eltorg.org/
+https://elbonus.ru/
+https://zakupki223.eltorg.org/
