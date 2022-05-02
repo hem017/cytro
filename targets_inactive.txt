@@ -383,3 +383,4 @@ https://golos.rus-on.ru/
 https://www.rosatom.rts-tender.ru
 https://sc.rus-on.ru/
 https://sstorg.ru/personal/
+https://rus-on.ru/trades

@@ -29,7 +29,6 @@ https://orders.roseltorg.ru/
 https://rosgeo.roseltorg.ru/
 https://rsl-analytics.roseltorg.ru/
 https://rt.roseltorg.ru/
-https://rus-on.ru/trades
 https://ryazagro.roseltorg.ru/
 https://saratovagro.roseltorg.ru/
 https://sberbank-ast.ru/
