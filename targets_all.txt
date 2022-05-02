@@ -1,6 +1,4 @@
-https://www.b2b-center.ru/market/
 https://www.rts-tender.ru/poisk
-https://www.rosatom.rts-tender.ru
 https://app.rts-tender.ru/auth/sso/login/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f&sso=1&code=-5
 https://223.rts-tender.ru/supplier/sso/Login.aspx?ReturnUrl=%2fsupplier%2fsso%2f&sso=1&code=-5
 https://it2-auth.rts-tender.ru/
@@ -11,7 +9,6 @@ http://etprf.ru/
 http://file.etprf.ru
 http://sale.etprf.ru
 http://universal.electro-torgi.ru/
-https://223fz.rus-on.ru/
 https://agro.roseltorg.ru/
 https://b.roseltorg.ru/
 https://bankrupt.electro-torgi.ru/
@@ -25,7 +22,6 @@ https://dss2.roseltorg.ru/
 https://electro-torgi.ru/
 https://files.roseltorg.ru/
 https://fkr.roseltorg.ru/
-https://golos.rus-on.ru/
 https://kim-irao.roseltorg.ru/
 https://kim.roseltorg.ru/
 https://login.sberbank-ast.ru/Login.aspx
@@ -37,10 +33,8 @@ https://rus-on.ru/trades
 https://ryazagro.roseltorg.ru/
 https://saratovagro.roseltorg.ru/
 https://sberbank-ast.ru/
-https://sc.rus-on.ru/
 https://seeyou.roseltorg.ru/
 https://soon.sberbank-ast.ru/Login.aspx
-https://sstorg.ru/personal/
 https://st-aggregator01.roseltorg.ru/
 https://st-aggregator02.roseltorg.ru/
 https://sverdlagro.roseltorg.ru/
