@@ -63,7 +63,6 @@ https://ibank2.rostfinance.ru/ibank2/
 https://b2b.nsbank.ru/
 https://spsc.ru
 https://www.rostfinance.ru
-https://www.raexpert.ru
 https://www.vl.ru
 https://www.moscombank.ru
 https://www.tenderbank.ru
