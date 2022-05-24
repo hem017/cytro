@@ -422,3 +422,6 @@ https://dbo.uralfd.ru/
 https://i.metcom.ru/client/
 https://ibank2.metcom.ru/ibank2/
 https://ibank2.novobank.ru/ibank2/
+http://test.ndb24.ru
+https://rusnarbank.ru
+https://www.eco-invest.ru

@@ -51,7 +51,6 @@ https://solid.ru/business/rko/index.php
 https://bank.solid.ru/ibank2/
 https://credits.lockobank.ru
 https://ikanobank.ru/
-http://test.ndb24.ru
 https://ibank.bankd.ru/
 https://investpay.ru
 https://www.rusprofile.ru
@@ -65,9 +64,7 @@ https://www.kremlinbank.ru
 https://rusfincorp.ru
 https://www.ssb.msk.ru
 https://www.balakovo-bank.ru
-https://rusnarbank.ru
 https://m.bspb.ru
-https://www.eco-invest.ru
 https://rnko-kholmsk.ru
 https://www.pscb.ru
 https://pscb.ru
