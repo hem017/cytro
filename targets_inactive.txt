@@ -416,3 +416,9 @@ https://service.egais.ru
 https://check.egais.ru
 https://online.siab.ru/
 https://www.raexpert.ru
+https://alexbank.ru
+https://b2b.nsbank.ru/
+https://dbo.uralfd.ru/
+https://i.metcom.ru/client/
+https://ibank2.metcom.ru/ibank2/
+https://ibank2.novobank.ru/ibank2/

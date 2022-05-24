@@ -32,11 +32,8 @@ https://ibank.akibank.ru/ibank2/
 https://lk.bcs.ru/
 https://ibank.gaztransbank.ru/ibank2/
 https://skbbank.ru/chastnym-licam
-https://ibank2.metcom.ru/ibank2/
 https://www.akibank.ru/
 https://ib.skbbank.ru/login
-https://i.metcom.ru/client/
-https://ibank2.novobank.ru/ibank2/
 https://alfabank.ru/get-money/credit/calculator/
 https://ib.open.ru/webbank/
 https://cb.open.ru/login
@@ -54,13 +51,11 @@ https://solid.ru/business/rko/index.php
 https://bank.solid.ru/ibank2/
 https://credits.lockobank.ru
 https://ikanobank.ru/
-https://dbo.uralfd.ru/
 http://test.ndb24.ru
 https://ibank.bankd.ru/
 https://investpay.ru
 https://www.rusprofile.ru
 https://ibank2.rostfinance.ru/ibank2/
-https://b2b.nsbank.ru/
 https://spsc.ru
 https://www.rostfinance.ru
 https://www.vl.ru
@@ -72,7 +67,6 @@ https://www.ssb.msk.ru
 https://www.balakovo-bank.ru
 https://rusnarbank.ru
 https://m.bspb.ru
-https://alexbank.ru
 https://www.eco-invest.ru
 https://rnko-kholmsk.ru
 https://www.pscb.ru
