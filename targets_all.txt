@@ -12,7 +12,6 @@ https://ibank2.lanta.ru/ibank2/#/
 https://www.moskb.ru/
 https://kbb.ru/
 https://bankvl.ru/
-https://dbo.pervbank.ru/ibank2/
 https://www.bancaintesa.ru/
 https://www.vtb.ru/
 https://online.vtb.ru/login
@@ -44,7 +43,6 @@ https://www.ubrr.ru/
 https://i.zenit.ru/login?next=/
 https://online.cetelem.ru/login.jsp
 https://telebank.minbank.ru
-https://ibc.vuzbank.ru/ru/html/login.html
 https://www.vuzbank.ru/chastnym-klientam/kredity
 https://bank.bcs.ru/business
 https://solid.ru/business/rko/index.php
@@ -75,17 +73,13 @@ https://sber.ru/bank/
 https://bcs-bank.com
 https://www.bystrobank.ru/uslugi/credit.html
 https://online.payment.ru/index0.html
-https://platiza.ru/
 https://online.gpb.ru/login
-https://goodmoneta.ru/
 https://www.bankperm.ru/business/credits/
 https://microklad.ru/
 https://www.apkbank.ru/ru/chelyabinsk/services/individuals/cards/
 https://lk.ebabos.ru/servis-nedostupen
 https://www.bankodrom.ru/banki-rossii/
-https://pay.bankermak.ru
 http://donkombank.ru
-https://credeo.ru/
 https://zaimy-pts.ru/
 https://psbst.ru/
 https://avto-kapital.ru/
