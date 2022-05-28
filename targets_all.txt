@@ -1,12 +1,7 @@
-http://news.zarpressa.ru/
 http://orelsreda.ru/
 http://pln-pskov.ru/
 http://www.nnng.ru/
 http://www.province-pskov.ru/
-http://www.pryamayarech.ru/
-http://www.selnow45.ru/
-http://www.tp-tara.ru/
-http://zauralonline.ru/
 https://161.ru/
 https://atas.info/
 https://bk55.ru/
@@ -14,11 +9,8 @@ https://bloknot-rostov.ru/
 https://gorod55.ru/
 https://gorodz.info/
 https://kn51.ru/
-https://kurgan.ru/
 https://lg.lpgzt.ru/
-https://lipetskmedia.ru/
 https://luki.ru/
-https://magadanpravda.ru/
 https://most.tv/
 https://newsomsk.ru/
 https://ngs.ru/
@@ -32,11 +24,8 @@ https://podolskriamo.ru/
 https://pravdapskov.ru/
 https://progorodnn.ru/
 https://svodka-nso.ru/
-https://vechor.ru/
 https://vn.ru/
-https://www.kolyma.ru/
 https://www.mvestnik.ru/
-https://www.novgorod.ru/
 https://www.oka.fm/
 https://www.penzainform.ru/
 https://www.vgoroden.ru/
