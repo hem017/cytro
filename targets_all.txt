@@ -1,8 +1,6 @@
 https://b2c.passport.rt.ru/auth/realms/b2c/protocol/openid-connect/auth?client_id=account_b2c&redirect_uri
 https://books.megafon.ru/day/login
 https://inetcom.tv/
-https://isp-vrn.ru/moscow/tariffs
-https://kiozk.ru/audio/biznes
 https://life.megafon.ru/digital-marketplace/#listen
 https://lk.megafon.ru/api/login/
 https://lk.qwerty.ru/owa/rac.k/!w3_p_main.showform?CONFIG=CONTRACT
