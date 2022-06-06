@@ -22,7 +22,6 @@ http://www.adygheya.ru/
 https://www.akzs.ru/
 https://www.amurobl.ru/
 https://www.belduma.ru/
-https://www.chelduma.ru/
 http://www.duma.khv.ru/
 http://www.duma.yar.ru/
 https://www.dumahmao.ru/
@@ -32,7 +31,6 @@ https://www.gov.spb.ru/
 http://www.gsrm.ru/
 https://www.ivoblduma.ru/
 https://www.khabkrai.ru/
-http://www.khural.org/
 https://www.kubzsk.ru/
 http://www.kurganoblduma.ru/
 https://www.mos.ru
@@ -50,7 +48,6 @@ https://www.zskaluga.ru/
 https://www.zskuzbass.ru/
 http://www.zspk.gov.ru/
 https://www.zsto.ru/
-http://www.zsuo.ru/
 https://www.zsvo.ru/
 https://zsnso.ru/
 https://zsro.ru/
