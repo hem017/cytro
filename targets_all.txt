@@ -1,4 +1,5 @@
 https://75.ru/
+https://75.ru/
 http://alania.gov.ru/
 https://avo.ru/
 https://belregion.ru/
@@ -6,7 +7,7 @@ http://crimea.gov.ru/
 https://egov-buryatia.ru/
 https://iltumen.ru/
 https://irkobl.ru/
-http://karelia-zs.ru/
+https://novoblduma.ru/
 https://novoblduma.ru/
 https://parlament09.ru/
 https://parlamentchr.ru/
@@ -23,14 +24,16 @@ https://www.amurobl.ru/
 http://www.duma.khv.ru/
 http://www.duma.yar.ru/
 https://www.dumahmao.ru/
+https://www.dumahmao.ru/
 https://www.dumask.ru/
-https://www.e-mordovia.ru/
 https://www.gov.spb.ru/
 http://www.gsrm.ru/
 https://www.ivoblduma.ru/
 https://www.khabkrai.ru/
 https://www.kubzsk.ru/
 http://www.kurganoblduma.ru/
+https://www.mos.ru
+https://www.mos.ru
 https://www.mos.ru
 https://www.novreg.ru/
 https://www.primorsky.ru
@@ -39,12 +42,13 @@ https://www.samregion.ru
 https://www.tambov.gov.ru
 http://www.udmurt.ru/
 https://www.vologdazso.ru/
+https://www.vologdazso.ru/
 http://www.vrnoblduma.ru/
 https://www.vskhakasia.ru/
 https://www.yarregion.ru/default.aspx
+https://www.yarregion.ru/default.aspx
 https://www.zskaluga.ru/
 https://www.zskuzbass.ru/
-http://www.zspk.gov.ru/
 https://www.zsto.ru/
 https://zsnso.ru/
 https://zsro.ru/
